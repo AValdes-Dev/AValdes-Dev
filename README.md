@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Alexander Valdés 👋
 
-<!--
-**AValdes-Dev/AValdes-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **ingeniería en informática** en la institución profesional Santo Tomás. Estoy aprendiendo progresivamente sobre los códigos de programación y sus estructuras mediante los patrones de diseño.
 
-Here are some ideas to get you started:
+###🛠️Tecnología y Herramientas.
+* **Lenguajes:** Python, C#(.Net), Java, SQL.
+* **Infraestructura y herramientas:** Linux(Debian), Sistemas operativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###📝Actualmente estoy perfeccionando mis conocimientos sobre
+* Creación de páginas Web
+* la utilización de C#
+* Ver la estructura de un programa mediante patrones de diseño
+
+###📫Como contactarme
+* **Correo:** a.gabriel.v@outlook.com
